@@ -164,16 +164,16 @@ body a{
     left: 0;
     right: 0;
     z-index: 99;
-    box-shadow: rgba(214, 214, 214, 0.247) 0px 8px 18px;
+    /* box-shadow: rgba(214, 214, 214, 0.247) 0px 8px 18px; */
     padding: 20px !important;
     z-index: 80;
-    background-color: #f8f9fa;
+    /* background-color: #242424; */
 }
 
 .navbar.scroll-nav{
     position: fixed !important;
     transition: all .4s ease;
-    box-shadow: rgba(78, 78, 78, 0.082) 0px 5px 10px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    /* box-shadow: rgba(78, 78, 78, 0.082) 0px 5px 10px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px; */
     animation: rotateMenu 400ms ease-in-out forwards;
     transform-origin: top center;
     background-color: #f8f9fa ;
