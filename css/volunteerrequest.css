@@ -32,7 +32,7 @@
 }
 .container .card .left-side{
     width:40%;
-    background-color:#0091DE;
+    background-color:#242424;
     height:100%;
  border-top-right-radius:20px;
  border-bottom-right-radius:20px;
@@ -103,7 +103,7 @@
     left:-39px;
     top:-1px;
     z-index:10;
-    background-color:#0091DE;
+    background-color:#242424;
 
      
 }
@@ -140,7 +140,7 @@
 /*  display:none;  */
 /*}*/
 .progress-bar li.active::before{
-    color:#0091DE;
+    color:#242424;
       border:2px solid #ffffff;
       background-color: rgb(255, 255, 255);
 }
@@ -169,7 +169,7 @@
 
 /* .container .card .left-side {
     width: 35%;
-    background-color: #0091DE;
+    background-color: #242424;
     height: 100%;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -305,7 +305,7 @@ select{
     width:100px;
     border:none;
     border-radius:5px;
-    background-color:#0091DE;
+    background-color:#242424;
     font-size:15px;
     color:#fff;
     cursor:pointer;
@@ -565,7 +565,7 @@ select{
 
 .container .card .left-side {
     width: 40%;
-    background-color: #0091DE;
+    background-color: #242424;
     height: 664px;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;

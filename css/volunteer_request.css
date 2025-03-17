@@ -4,7 +4,7 @@
     margin-top: 30px;
 }
 .right_form{
-    background-color: #0091DE;
+    background-color: #242424;
     padding: 40px;
     width: 26%;
     border-radius: 0 40px 40px 0;
@@ -82,14 +82,14 @@
     font-size: 30px;
     display: none;
     z-index: 3;
-    color: #0091DE;
+    color: #242424;
 }
 .progresss-bar .step .check.active{
     display: block;
 
 }
 .progresss-bar .step .bullet.active{
-    /* border: 2px solid #0091DE; */
+    /* border: 2px solid #242424; */
     background-color: #fff;
 }
 .progresss-bar .step:last-child .bullet:before,
@@ -165,12 +165,12 @@
     border-radius: 20px;
     margin: 10px 0;
     cursor: pointer;
-    color: #0091DE;
+    color: #242424;
     font-weight: 600;
 }
 .fileinput label p{
     margin: 0;
-    border: 1px #0091DE solid;
+    border: 1px #242424 solid;
     border-radius: 20px;
     width: 160px !important;
     padding: 5px;
@@ -221,22 +221,22 @@
     transition: all .4s ease;
 }
 .btns_page button:nth-child(1){
-    background-color: #0091DE;
+    background-color: #242424;
     color: #fff;
 }
 .btns_page button:nth-child(1):hover{
     background-color: #01458E;
 }
 .btns_page button:nth-child(2){
-    border: 1px solid #0091DE;
+    border: 1px solid #242424;
     background-color: transparent;
-    color: #0091DE;
+    color: #242424;
 }
 .btns_page button:nth-child(2):hover{
     border: 1px solid #01458E;
 }
 .btns_page button:nth-child(2) a{
-    color: #0091DE;
+    color: #242424;
 }
 .btns_page button:nth-child(2) a:hover{
     color: #01458E;
@@ -312,7 +312,7 @@
         flex-direction: column;
     }
     .right_form{
-        background-color: #0091DE;
+        background-color: #242424;
         padding: 20px;
         width: 100%;
         border-radius:40px 40px  0 0 ;

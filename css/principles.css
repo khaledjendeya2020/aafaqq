@@ -3,13 +3,13 @@
 .line_priciples{
     width: 45px;
     height: 5px;
-    background-color: #0091DE;
+    background-color: #242424;
 }
 .text_princples {
     width: 47%;  
 }
 .text_princples h4{
-    color: #0091DE;  
+    color: #242424;  
 }
 .text_princples p{
 
@@ -25,7 +25,7 @@
 }
 .arrowtext i{
     font-size: 30px;
-    color: #0091DE;
+    color: #242424;
 }
 .headtex_principles {
     display: flex;

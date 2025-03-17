@@ -52,7 +52,7 @@ textarea{
     margin-top: 70px;
     padding: 13px;
     color: #FFFFFF;
-    background-color: #0091DE;
+    background-color: #242424;
     border: none;
     border-radius: 10px;
     transition: all .5s ease;
@@ -67,7 +67,7 @@ textarea{
 .line_contant{
     width: 80%;
     height: 10px;
-    background-color: #0091DE;
+    background-color: #242424;
     margin: 30px 0;
 }
 
@@ -81,7 +81,7 @@ textarea{
     width: 40px;
     height: 40px;
     padding: 10px;
-    border: 1px solid #0091DE;
+    border: 1px solid #242424;
     border-radius: 7px;
     display: flex;
     justify-content: center;
@@ -103,11 +103,11 @@ textarea{
 }
 
 .left_contact .imgfooticon{
-    border: 1px solid #0091DE;
+    border: 1px solid #242424;
     border-radius: 10px;
 }
 .left_contact .imgfooticon i{
-    color: #0091DE;
+    color: #242424;
 }
 .left_contact .imgfooticon:hover i{
     color: #FFFFFF;

@@ -5,11 +5,11 @@
     gap: 5px;
 }
 .hedsid h6:nth-child(2){
-    color: #0091DE;
+    color: #242424;
 }
 
 .aboutt h1{
-    color: #0091DE;
+    color: #242424;
     font-weight: 600;
 }
 /* ///////////////////////card_about /////////// */
@@ -32,7 +32,7 @@
     text-align: justify;
 }
 .text_card h5{
-    background-color: #0091DE;
+    background-color: #242424;
     display: inline-block;
     padding: 15px;
     border-radius: 20px;

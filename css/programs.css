@@ -51,7 +51,7 @@
 
 .cardsside > h5{
     margin: 15px 0;
-    color: #0091DE;
+    color: #242424;
 }
 .arrowtext{
     display: flex;
@@ -60,7 +60,7 @@
 }
 .arrowtext i{
     font-size: 30px;
-    color: #0091DE;
+    color: #242424;
     margin-top: -2px;
 }
 .allcardpro{
@@ -114,7 +114,7 @@
     
     .progr .serch-news{
         display: flex;
-        border: 1px #0091DE solid;
+        border: 1px #242424 solid;
         width: 80%;
     }
     .progr .serch-news input{
@@ -153,14 +153,14 @@
     }
     .cardsside > h5{
         margin: 15px 0;
-        color: #0091DE;
+        color: #242424;
         font-size: 16px;
         position: sticky;
     }
 
     .progr .serch-news{
         display: flex;
-        border: 1px #0091DE solid;
+        border: 1px #242424 solid;
         align-items: center;
         width: 90%;
         height: 45px;
@@ -168,7 +168,7 @@
         overflow: hidden;
     }
     .progr .serch-news i{
-        background-color: #0091DE;
+        background-color: #242424;
         font-size: 30px;
         padding: 10px 20px;
         padding-right: 10px;

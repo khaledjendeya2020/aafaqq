@@ -54,7 +54,7 @@ body a{
         font-size: 14px;
     }
     .navbar-brand img{
-        width: 220px !important;
+        width: 50px !important;
     }
     .container-fluid{
         padding: 0 !important;
@@ -85,7 +85,7 @@ body a{
         font-size: 13px;
     }
     .navbar-brand img{
-        width: 200px !important;
+        width: 50px !important;
     }
     .btnserch{
         width: 37px !important;
@@ -104,7 +104,7 @@ body a{
         gap: 13px;
     }
     .navbar-brand img{
-        width: 200px !important;
+        width: 50px !important;
     }
     .btnserch{
         width: 37px !important;
@@ -582,6 +582,53 @@ body a{
     justify-content: center;
 }
 
+.title-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+.title {
+    position: relative;
+    z-index: 2;
+    background: white;
+    padding: 20px; /* Increased padding for better visibility */
+    width: 300px; /* Adjust width as needed */
+    border: 1px solid #ccc; /* Add a border for visual separation */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    font-family: sans-serif; /* Choose a suitable font */
+}
+
+.title div {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.title div {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+.tt3 progress {
+    width: 30%;
+    height: 10px; /* Adjust this value to make it thinner */
+    border-radius: 5px;
+    appearance: none;
+  }
+  
+  .tt3 progress::-webkit-progress-bar {
+    background-color: #ddd;
+    border-radius: 5px;
+  }
+  
+  .tt3 progress::-webkit-progress-value {
+    background-color: blue;
+    border-radius: 5px;
+  }
+  
+  .tt3 progress::-moz-progress-bar {
+    background-color: blue;
+    border-radius: 5px;
+  }
 @media (max-width:770px){
     .navbar img{
         width: 350px;
@@ -602,7 +649,7 @@ body a{
         border-radius: 30px;
     }
     .news{
-        margin-top: 130px;
+        margin-top : 230px !important;
     }
 
     .serch input{
@@ -1165,7 +1212,7 @@ body a{
 
 .hedsid{
     display: flex;
-    margin: 140px 0 10px 0;
+    margin: 180px 0 10px 0;
     gap: 5px;
 }
 .hedsid h6:nth-child(2){

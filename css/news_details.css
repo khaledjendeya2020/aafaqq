@@ -60,7 +60,7 @@
     }
 }
 .sotial_news{
-    background-color: #0091DE;
+    background-color: #242424;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -98,10 +98,10 @@
 
 }
 .left_newsdeta h3{
-    color: #0091DE;
+    color: #242424;
 }
 .line_news{
-    background-color: #0091DE;
+    background-color: #242424;
     width: 30%;
     height: 7px;
 }
@@ -152,7 +152,7 @@
     text-align: justify;
 }
 .textnewsbetails h1{
-    color: #0091DE;
+    color: #242424;
     font-weight: 600;
     margin-top: 20px;
 }
@@ -320,7 +320,7 @@
     height: 40px;
 }
 .keyword h3{
-    color: #0091DE;
+    color: #242424;
 }
 
 .keyword .tagkey p{
